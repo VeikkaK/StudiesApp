@@ -1,4 +1,4 @@
-My Spring application for managing person data. It's about registration of students and adding them to courses.
+My Spring application for managing person data. It's basically about registration of students and adding them to courses.
 
 Main features:
 
