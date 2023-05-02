@@ -1,4 +1,4 @@
-This is a REST service for managing person data. This concerns the registration of students and adding them to courses.
+My Spring application for managing person data. It's about registration of students and adding them to courses.
 
 Main features:
 
